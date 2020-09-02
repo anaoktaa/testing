@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anaoktaa/testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anaoktaa/testing/issues"
+  },
+  "homepage": "https://github.com/anaoktaa/testing#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
